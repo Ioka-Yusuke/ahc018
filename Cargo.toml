@@ -1,0 +1,11 @@
+[package]
+name = "ahc018"
+version = "0.1.0"
+authors = ["Ioka-Yusuke <17244yuke@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+proconio = "0.3.6"
+rand = "0.6"
